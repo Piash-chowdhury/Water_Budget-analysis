@@ -1,4 +1,4 @@
-
+First extract watershed using Watershed delineation script part one and two: inputs are DEM, area of Interest(AOI, and Pour point (where we want outlet)
 from google.colab import files
 uploaded = files.upload()
 import pandas as pd
